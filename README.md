@@ -1,10 +1,11 @@
 
 <h2 align="center">
-  <img align="center" height="256px" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg"> 
+  <img align="center" height="256px" src="https://github.com/Sebastian12M/Sebastian12M/blob/main/giphy.webp?raw=true"> 
   <br>
   <br>
  Hey there! I am Sebastián Morales. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
+
 
 
 <p align="center">
@@ -46,10 +47,9 @@
   
 
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jaiswal4sudeep's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
   
-## Favorite Tools
+## Tools
 
 ### Programming Languages
 
