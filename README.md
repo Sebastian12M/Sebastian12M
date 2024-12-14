@@ -68,7 +68,7 @@
 
   ## Thank you for visting my profile
   
-  ![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudep/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Sebastian12M/count.svg)
   
 ## Connect with Me:
   
