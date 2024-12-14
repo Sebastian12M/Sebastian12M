@@ -80,7 +80,7 @@
   
   <p>
 <a href="https://github.com/Sebastian12M"><img src="https://img.shields.io/badge/-Sebastian12M-black?logo=github&style=flat-square"/></a>
-<a href="www.linkedin.com/in/juan-sebastian-morales-rodas-b59051157"><img src="https://img.shields.io/badge/-Juan Sebastian Morales Rodas-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/juan-sebastian-morales-rodas-b59051157/"><img src="https://img.shields.io/badge/-Juan Sebastian Morales Rodas-blue?logo=linkedin&style=flat-square"></a>
 <a href="mailto:sebastianmoralesrodas@gmail.com"><img src="https://img.shields.io/badge/-sebastianmoralesrodas@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
   
