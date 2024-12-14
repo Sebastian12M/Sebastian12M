@@ -35,12 +35,6 @@
 
 
 
-  
-  ## Contribution Streak
-
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sebastian12M's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastian12M&theme=monokai-metallian&hide_border=true"/>
-</p>
 
   
   
