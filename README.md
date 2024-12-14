@@ -79,14 +79,11 @@
 ## Connect with Me:
   
   <p>
-<a href="https://github.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/jaiswal4sudeep/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://instagram.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:jaiswal4sudeep@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=flat-square"/></a>
+<a href="https://github.com/Sebastian12M"><img src="https://img.shields.io/badge/-Sebastian12M-black?logo=github&style=flat-square"/></a>
+<a href="www.linkedin.com/in/juan-sebastian-morales-rodas-b59051157"><img src="https://img.shields.io/badge/-Juan Sebastian Morales Rodas-blue?logo=linkedin&style=flat-square"></a>
+<a href="mailto:sebastianmoralesrodas@gmail.com"><img src="https://img.shields.io/badge/-sebastianmoralesrodas@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
   
 <hr>
-  <p>Made with &hearts; by <a href="https://github.com/jaiswal4sudeep" style="color:white">SuDeep Jaiswal</a><p>
-  <p> Last Update: Jan 24, 2022 </p>
+ 
 
